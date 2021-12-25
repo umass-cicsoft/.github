@@ -1,4 +1,4 @@
-# ![CICSoft Logo](./../assets/brand.png)
+# ![CICSoft Logo](https://raw.githubusercontent.com/umass-cicsoft/.github/main/assets/brand.png)
 
 ## What is CICSoft?
 
